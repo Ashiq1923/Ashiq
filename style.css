@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header {
+    width: 99vw;
+    height: 95vh;
+    background-color: aqua;
+}
+.naebar-up{
+    width: 99vw;
+    height: 25vh;
+display: flex;
+background-color: rgba(12, 12, 206, 0.733);
+}
+.icon{
+
+    width: 15vw;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 60px;
+    font-size: 15px;
+    color: aliceblue;
+}
+
+.curncy{
+    width: 30vw;
+    height: 11vh;
+    
+}
+.curncy a{
+    position: relative;
+    left: 350px;
+    top: 20px;
+    font-size:20px;
+    display: inline-block;
+    text-decoration: none;
+    color: azure;
+}
+.pak-image{
+width: 5vw;
+height: 11vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.pak-image img{
+    width: 2.5vw;
+    height: 6vh;
+    border-radius: 50%;
+    }
+.contact{
+        width: 5vw;
+        height: 11vh;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     
+}
+.contact a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.contact i{
+    width: 4vw;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    font-size: 30px ;
+ 
+}
+.list-ur-property{
+    width: 15vw;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    font-size: 15px ;
+}
+.list-ur-property a{
+    text-decoration: none;
+    color: aliceblue;
+    border: 1px solid rgb(245, 245, 245);
+    padding: 10px 8px;
+    border-radius: 10px;
+
+}
+.register{
+    width: 6vw;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    font-size: 15px ;
+}
+.register a{
+    text-decoration: none;
+    color: aliceblue;
+    border: 1px solid rgb(245, 245, 245);
+    padding: 10px 8px;
+    border-radius: 10px;
+
+}
+.sign-in{
+    width: 6vw;
+    height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    font-size: 15px ;
+}
+.sign-in a{
+    text-decoration: none;
+    color: aliceblue;
+    border: 1px solid rgb(245, 245, 245);
+    padding: 10px 8px;
+    border-radius: 10px;
+}
